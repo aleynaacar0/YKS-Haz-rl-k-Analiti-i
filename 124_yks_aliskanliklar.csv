@@ -1,0 +1,121 @@
+ogrenci_id,alan,haftalik_calisma_saati,haftalik_soru_sayisi,katilinan_deneme_sayisi,destek_turu,gunluk_uyku_saati
+124001,Sayısal,20.4,970,22,Dershane/Kurs,7.8
+124002,Dil,23.4,1328,21,Online Platform,7.5
+124003,Eşit Ağırlık,22.9,1150,27,Dershane/Kurs,6.5
+124004,Eşit Ağırlık,14.3,724,17,Özel Ders,7.6
+124005,Sayısal,28.4,1461,23,Online Platform,6.0
+124006,Sayısal,28.1,1309,25,Sadece Okul / Bireysel,6.6
+124007,Sayısal,26.0,1286,27,Dershane/Kurs,6.3
+124008,Sözel,24.1,1104,22,Online Platform,6.9
+124009,Eşit Ağırlık,14.7,1156,15,Sadece Okul / Bireysel,9.0
+124010,Eşit Ağırlık,22.6,1222,24,Dershane/Kurs,4.9
+124011,Sayısal,23.3,1143,24,Dershane/Kurs,7.5
+124012,Dil,19.6,1114,19,Sadece Okul / Bireysel,5.2
+124013,Sözel,24.7,1294,22,Sadece Okul / Bireysel,6.3
+124014,Sayısal,29.2,1480,28,Özel Ders,7.9
+124015,Sayısal,41.1,2141,28,Online Platform,6.9
+124016,Sayısal,27.4,1546,20,Sadece Okul / Bireysel,5.7
+124017,Sayısal,28.1,1384,23,Dershane/Kurs,6.1
+124018,Eşit Ağırlık,25.4,1256,24,Dershane/Kurs,7.5
+124019,Sayısal,10.6,635,17,Dershane/Kurs,6.1
+124020,Sayısal,25.8,1015,31,Sadece Okul / Bireysel,7.0
+124021,Eşit Ağırlık,26.5,1165,29,Dershane/Kurs,6.8
+124022,Sayısal,45.7,2461,36,Özel Ders,6.1
+124023,Sayısal,24.5,1549,24,Sadece Okul / Bireysel,8.9
+124024,Sayısal,28.4,1440,23,Online Platform,7.4
+124025,Eşit Ağırlık,25.7,1442,25,Dershane/Kurs,4.8
+124026,Eşit Ağırlık,16.7,998,18,Sadece Okul / Bireysel,7.0
+124027,Sayısal,35.1,2241,32,Dershane/Kurs,6.1
+124028,Eşit Ağırlık,32.0,1807,25,Sadece Okul / Bireysel,7.7
+124029,Eşit Ağırlık,32.3,1634,31,Dershane/Kurs,6.0
+124030,Sayısal,18.7,898,27,Dershane/Kurs,6.7
+124031,Eşit Ağırlık,37.2,1633,31,Sadece Okul / Bireysel,7.3
+124032,Sayısal,14.8,896,20,Dershane/Kurs,7.7
+124033,Sayısal,30.7,1468,31,Dershane/Kurs,5.6
+124034,Dil,43.5,1944,34,Sadece Okul / Bireysel,6.5
+124035,Dil,18.1,917,21,Sadece Okul / Bireysel,6.3
+124036,Sözel,21.5,1005,22,Sadece Okul / Bireysel,6.1
+124037,Sayısal,26.8,1659,26,Sadece Okul / Bireysel,8.6
+124038,Sayısal,22.0,1322,20,Özel Ders,7.2
+124039,Eşit Ağırlık,13.6,810,18,Dershane/Kurs,5.5
+124040,Sayısal,26.5,1614,27,Dershane/Kurs,7.7
+124041,Sayısal,17.5,999,26,Dershane/Kurs,8.9
+124042,Eşit Ağırlık,29.8,1411,31,Online Platform,7.8
+124043,Sayısal,18.6,1265,29,Özel Ders,5.3
+124044,Sözel,38.4,2008,29,Özel Ders,6.3
+124045,Sayısal,19.7,930,25,Özel Ders,8.1
+124046,Eşit Ağırlık,23.4,1224,24,Online Platform,6.1
+124047,Sayısal,32.5,1531,38,Dershane/Kurs,7.2
+124048,Eşit Ağırlık,16.2,721,16,Özel Ders,7.6
+124049,Eşit Ağırlık,27.8,1589,23,Özel Ders,5.9
+124050,Sayısal,36.5,2128,29,Sadece Okul / Bireysel,6.7
+124051,Dil,13.1,579,9,Dershane/Kurs,4.5
+124052,Eşit Ağırlık,27.5,1521,24,Online Platform,5.8
+124053,Dil,28.1,1366,23,Online Platform,6.5
+124054,Sözel,32.3,1580,29,Özel Ders,5.6
+124055,Eşit Ağırlık,16.1,835,21,Sadece Okul / Bireysel,8.4
+124056,Dil,15.4,763,26,Online Platform,5.4
+124057,Sayısal,30.2,1566,31,Sadece Okul / Bireysel,6.4
+124058,Sayısal,28.4,1353,24,Dershane/Kurs,6.9
+124059,Sayısal,28.0,1500,23,Özel Ders,8.2
+124060,Sayısal,28.8,1488,29,Sadece Okul / Bireysel,5.4
+124061,Sayısal,20.6,1091,17,Özel Ders,8.0
+124062,Sayısal,27.9,1319,34,Sadece Okul / Bireysel,6.8
+124063,Sözel,28.3,1386,31,Online Platform,5.8
+124064,Sayısal,20.3,1226,20,Online Platform,7.3
+124065,Sayısal,40.9,2115,27,Özel Ders,7.0
+124066,Eşit Ağırlık,29.8,1394,33,Dershane/Kurs,6.2
+124067,Sayısal,16.5,957,19,Online Platform,6.9
+124068,Sözel,31.3,1721,33,Sadece Okul / Bireysel,6.4
+124069,Sayısal,18.2,768,14,Dershane/Kurs,6.9
+124070,Dil,32.3,1735,26,Online Platform,7.5
+124071,Eşit Ağırlık,35.3,1689,31,Online Platform,8.4
+124072,Sayısal,19.4,1158,21,Özel Ders,5.6
+124073,Sayısal,33.7,1602,28,Özel Ders,8.9
+124074,Sözel,29.3,1247,30,Dershane/Kurs,4.8
+124075,Eşit Ağırlık,32.6,1422,25,Dershane/Kurs,6.6
+124076,Eşit Ağırlık,41.2,2061,34,Dershane/Kurs,7.4
+124077,Eşit Ağırlık,24.0,1318,24,Sadece Okul / Bireysel,7.1
+124078,Sayısal,20.0,964,24,Dershane/Kurs,6.2
+124079,Sayısal,18.9,1146,24,Dershane/Kurs,6.6
+124080,Sayısal,19.5,828,17,Dershane/Kurs,6.3
+124081,Sözel,25.4,1333,19,Özel Ders,6.2
+124082,Eşit Ağırlık,28.7,1309,32,Online Platform,7.6
+124083,Sayısal,28.2,1371,28,Dershane/Kurs,7.2
+124084,Sayısal,32.6,1674,26,Dershane/Kurs,6.1
+124085,Sayısal,26.1,1245,31,Sadece Okul / Bireysel,7.7
+124086,Sayısal,37.6,1834,33,Özel Ders,7.1
+124087,Eşit Ağırlık,23.9,1426,29,Dershane/Kurs,7.6
+124088,Eşit Ağırlık,47.8,2264,38,Özel Ders,7.4
+124089,Sözel,31.0,1720,36,Dershane/Kurs,6.0
+124090,Eşit Ağırlık,19.1,890,28,Dershane/Kurs,6.2
+124091,Sayısal,17.4,1062,19,Özel Ders,7.5
+124092,Eşit Ağırlık,29.9,1761,31,Özel Ders,7.4
+124093,Eşit Ağırlık,24.2,918,27,Online Platform,6.8
+124094,Eşit Ağırlık,31.7,1506,34,Dershane/Kurs,6.9
+124095,Eşit Ağırlık,29.8,1627,24,Özel Ders,8.1
+124096,Eşit Ağırlık,25.4,1312,27,Sadece Okul / Bireysel,6.2
+124097,Eşit Ağırlık,19.2,1119,25,Dershane/Kurs,7.3
+124098,Sayısal,13.9,734,11,Sadece Okul / Bireysel,6.6
+124099,Sayısal,22.4,1220,18,Dershane/Kurs,6.6
+124100,Sayısal,32.9,1657,21,Online Platform,7.9
+124101,Sayısal,27.7,1621,25,Dershane/Kurs,7.6
+124102,Eşit Ağırlık,16.0,958,22,Özel Ders,7.6
+124103,Sayısal,27.4,1483,32,Dershane/Kurs,8.1
+124104,Eşit Ağırlık,29.1,1447,27,Online Platform,6.8
+124105,Sözel,18.9,977,27,Özel Ders,7.5
+124106,Sayısal,27.2,1359,20,Özel Ders,6.5
+124107,Sayısal,26.5,1451,19,Dershane/Kurs,7.1
+124108,Eşit Ağırlık,16.9,897,19,Sadece Okul / Bireysel,6.7
+124109,Sayısal,28.9,1543,28,Dershane/Kurs,6.9
+124110,Sayısal,30.5,1883,28,Online Platform,7.4
+124111,Sayısal,34.7,1892,22,Dershane/Kurs,6.0
+124112,Sayısal,34.4,1699,30,Dershane/Kurs,8.9
+124113,Dil,15.0,1055,13,Dershane/Kurs,5.8
+124114,Sözel,18.5,971,23,Özel Ders,5.6
+124115,Eşit Ağırlık,30.1,1248,29,Özel Ders,8.0
+124116,Sözel,30.1,1403,24,Dershane/Kurs,7.6
+124117,Sözel,30.1,1273,26,Sadece Okul / Bireysel,7.4
+124118,Sayısal,48.0,2307,34,Özel Ders,7.4
+124119,Sözel,30.6,1579,28,Özel Ders,6.8
+124120,Eşit Ağırlık,35.1,2030,34,Özel Ders,5.9
